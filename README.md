@@ -9,4 +9,4 @@ To run:
  - npm i
  - npx parcel index.html
  
- You will be promted to sign in with Metamask. You may need to refresh the page if nothing happens afterwards.
+ You will be prompted to sign in with Metamask. You may need to refresh the page if nothing happens afterwards.
