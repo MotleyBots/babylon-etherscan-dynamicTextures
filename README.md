@@ -9,4 +9,4 @@ To run:
  - npm i
  - npx parcel index.html
  
- You will be prompted to sign in with Metamask. You may need to refresh the page if nothing happens afterwards. Note that you have to have transactions cubes to appear.
+ You will be prompted to sign in with Metamask. You may need to refresh the page if nothing happens afterwards. Note that you have to have transactions for cubes to appear.
